@@ -1,1 +1,2 @@
 # Google-Play-store-Data-Analysis
+The entire dataset is downloaded from kaggle.com. The dataset consists of more than 10,000 applications on Google Play across different categories and contains information about the Ratings, reviews, size and other details. I have cleaned the dataset and have analysed them as per their categories. Another dataset contains 100 reviews for each app which I used for sentiment analysis. 
